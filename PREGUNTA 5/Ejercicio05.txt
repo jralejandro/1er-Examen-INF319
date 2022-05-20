@@ -1,0 +1,1 @@
+plot(x = iris[, -5], col = c("firebrick", "green3", "blue")[iris$Species],pch = 10)
